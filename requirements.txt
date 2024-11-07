@@ -1,0 +1,4 @@
+opencv-python
+pdf2image
+pillow
+pyocr
