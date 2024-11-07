@@ -21,6 +21,6 @@ This project is a Python pipeline for extracting specific structured data from P
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/pdf-data-extraction.git
-   cd pdf-data-extraction
+   git clone https://github.com/dineshram0212/pdf-ocr-extractor
+   cd pdf-ocr-extractor
    ```
